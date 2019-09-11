@@ -108,7 +108,9 @@ header {
 
 .content a {
   font-weight: bold;
+　display:inline-block;  
 }
+
 .pr {
   background-color: #ffff7c;
 }
