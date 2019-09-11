@@ -109,6 +109,7 @@ header {
 .content a {
   font-weight: bold;
 　display:inline-block;  
+  width: 80%;
 }
 
 .pr {
